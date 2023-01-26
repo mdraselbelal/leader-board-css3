@@ -83,7 +83,7 @@ hr{
     grid-template-columns: repeat(3, 1fr);
 }
 .course .course-banner img{
-    width: 224px;
+    /* width: 224px; */
     height: 104px;
     filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
 }
